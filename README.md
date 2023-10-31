@@ -1,4 +1,4 @@
-+-# Welcome to My GitHub!
+ Welcome to My GitHub!
 
 👋 Hi, I’m [@Youssefidris](yourGitHubLink)
 🎓 Computer Science Student
