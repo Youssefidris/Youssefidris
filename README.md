@@ -1,87 +1,55 @@
-# DeveloperFolio  ![flutter](https://badgen.net/pub/flutter-platform/xml) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/naveenjujaray/DeveloperFolio?style=flat)](https://github.com/naveenjujaray/DeveloperFolio/stargazers) ![Forks](https://img.shields.io/github/forks/naveenjujaray/DeveloperFolio?style=flat) [![website](https://img.shields.io/website?url=https%3A%2F%2Fdeveloperfolio.web.app%2F)](https://developerfolio.web.app/) [![Buy me coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-orange)](https://www.buymeacoffee.com/naveenjujaray)
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/osamajavaid/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/osamajavaid/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/osamajavaid/portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iosamajavaid?style=social)](https://twitter.com/intent/follow?screen_name=iosamajavaid)
 
-A clean, beautiful and responsive portfolio template with `Dark Mode` enabled for Developers!
+  <br />
+  <br />
+  
+  <img src="./public/readme-images/moj.png" />
 
-If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an pull request.
+  <h2 align="center">Muhammad Osama Javaid - Personal portfolio</h2>
 
+This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-### Dark Mode
-![Darkmode](gif/dark.gif)
+<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-### Desktop View
-![Desktop](/gif/desk.gif)
+</div>
 
-### Tablet View
-![Tablet](/gif/tab.gif)
+<br />
 
-### Mobile View
-![Mobile](/gif/mob.gif)
+### Demo Screeshots
 
-## Sections
+![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
-✔️ Summary and About me
+### Prerequisites
 
-✔️ Skills
+Before you begin, ensure you have met the following requirements:
 
-✔️ Proficiency
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-✔️ Education
+### Run Locally
 
-✔️ Achievements 🏆
+To run **portfolio** locally, run this command on your git bash:
 
-✔️ Blogs
+Linux and macOS:
 
-✔️ Contact me
-
-To view a live example, [click here]
-
-## Getting Started
-
-From your command line, clone and run developerFolio:
-
-In-order to work with this repo you need to have `flutter beta` installed on your system.
-
-```
-# Clone this repository
-$ git clone 
-
-# Go into the repository
-$ cd DeveloperFolio
-
-# Get Packages
-$ flutter pub get
-
-# Build Web using Flutter
-$ flutter build web
-
-# Launch/View
-$ flutter run -d chrome
+```bash
+sudo git clone https://github.com/osamajavaid/portfolio.git
 ```
 
-## Deployment 📦
+Windows:
 
-When you are done with the setup, you should host your website online. We highly recommend to read through the docs for [Firebase] Hosting.
-
-```
-# Before you can install the Firebase CLI, you will need to install Node.js on your machine.
-npm install -g firebase-tools
-
-# Firebase Login
-$ firebase login
-
-# Initialize Firebase
-$ firebase init
-
-# Deploy to Firebase
-$ firebase deploy
-
+```bash
+git clone https://github.com/osamajavaid/portfolio.git
 ```
 
-## For the Future
-* Connect with LinkedIn to get Summary, Skills, Education and Experience
-* Connect with Github to get Customized Pins, Profile Details
-* Personalization Page to edit everything in once place.
+### Contact
 
+If you want to contact with me you can reach me at [X](https://www.x.com/iosamajavaid).
 
-[Firebase]: https://firebase.google.com/docs/hosting/quickstart
-[click here]: https://developerfolio.web.app/
+### License
+
+This project is **free to use** and does not contains any license.
