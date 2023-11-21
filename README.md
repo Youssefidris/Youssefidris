@@ -1,3 +1,9 @@
+
+<div style="background-image: url('relative/path/to/your/background.jpg'); height: 300px; background-size: cover; background-position: center;">
+  <!-- Content on top of the background -->
+  ## Background
+  Welcome to my GitHub profile! This is a cool background, isn't it?
+</div>
 -# Welcome to My GitHub!
 👋 Hi, I’m [@Youssefidris](yourGitHubLink)
 🎓 Computer Science Student
