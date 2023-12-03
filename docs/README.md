@@ -1,5 +1,5 @@
 # Welcome to My GitHub!
-![My Photo](ufo-1265186_1920.jpg)
+![My Photo](docs/pexels-neo-2653362.jpg)
 👋 Hi, I’m [Youssef Idris](https://github.com/Youssefidris), a 27-year-old individual passionate about coding and technology.
 
 ## About Me
