@@ -6,43 +6,46 @@
   <title>My GitHub Profile</title>
   <style>
     body {
-      background: url('pexels-neo-2653362.jpg') no-repeat center center fixed; 
-      background-size: cover; /* Make the background image cover the entire screen */
-      color: #e6e6e6;
+      background-image: url('pexels-neo-2653362.jpg');
+      background-size: cover;
+      background-position: center;
+      color: white;
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
     }
 
     header {
-      background-color: #333;
+      background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black for the header */
       text-align: center;
-      padding: 20px;
-      color: white;
+      padding: 50px;
+    }
+
+    h1, h2, p {
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.5em;
     }
 
     img {
       width: 100%;
       height: auto;
       display: block;
-      margin: 20px 0;
     }
 
     section {
-      padding: 20px;
-      color: #ccc;
-    }
-
-    h2 {
-      color: #fff;
-      border-bottom: 2px solid #666;
-      padding-bottom: 10px;
-      margin-bottom: 20px;
+      padding: 50px;
     }
 
     ul {
-      list-style-type: square;
-      margin-left: 20px;
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
     }
   </style>
 </head>
@@ -50,7 +53,7 @@
 
 <header>
   <h1>Welcome to My GitHub!</h1>
-  👋 Hi, I’m <a href="https://github.com/Youssefidris" style="color: #66c2ff;">Youssefidris</a>
+  <p>👋 Hi, I’m <a href="https://github.com/Youssefidris" style="color: #3498db; text-decoration: none;">Youssefidris</a></p>
 </header>
 
 <section>
@@ -58,7 +61,7 @@
   <p>I'm Youssef Idris, 27 years old. I speak Arabic, English, and a bit of Turkish. I love football—both watching and playing. Additionally, I enjoy exercising in the gym.</p>
 
   <h2>Education</h2>
-  <p>Currently studying at <a href="https://www.southwales.ac.uk/about/" style="color: #66c2ff;">University of South Wales</a> - Computer Science</p>
+  <p>Currently studying at <a href="https://www.southwales.ac.uk/about/" style="color: #3498db; text-decoration: none;">University of South Wales</a> - Computer Science</p>
   <p>Courses: C++, Mathematical Tools for Computation, Professionalism and Employability, Problem-solving, Information Management, Assurance, and Security.</p>
 
   <h2>Skills</h2>
@@ -67,9 +70,7 @@
 
   <h2>Contact</h2>
   <p>📧 Email: 30068768@students.southwales.ac.uk</p>
-</section>
 
-<section>
   <h2>Projects</h2>
   <p>Completed projects:</p>
   <ul>
