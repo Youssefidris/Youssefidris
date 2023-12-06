@@ -8,8 +8,8 @@ I speak Arabic, English, and a bit of Turkish. In my free time, I love playing a
 
 ## Education
 - Currently studying at [University of South Wales](https://www.southwales.ac.uk/)
-- Major: Computer Science
-- Courses:
+- Course: Computer Science
+- Moudels:
   - C++
   - Mathematical Tools for Computation
   - Professionalism and Employability
