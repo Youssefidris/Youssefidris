@@ -3,14 +3,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    
-    background-image: url('docs/stars-in-the-night-sky-on-the-beach.jpg');
+    background-image: url('pexels-neo-2653362.jpg'); /* Update the image path */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
-
 }
+
+
+
+
+
 
 
 header {
