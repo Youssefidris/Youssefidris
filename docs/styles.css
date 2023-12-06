@@ -3,7 +3,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    
+    background-image: url('docs/stars-in-the-night-sky-on-the-beach.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
 }
+
 
 header {
     text-align: center;
