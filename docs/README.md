@@ -26,8 +26,9 @@ I speak Arabic, English, and a bit of Turkish. In my free time, I love playing a
 A project developed using Shiny App in R Studio for performing various calculations.
 
 ### C++ Projects
-- [Project 1](link-to-project-1): Description of project 1.
-- [Project 2](link-to-project-2): Description of project 2.
+- [Project 1](https://github.com/Programming2023-24/c-programming-group2-Youssefidris/blob/1f3d58f2728b692e3d29de013c65a7794f1fc059/Joe's%20Pizza.cpp));
+- [Project 2](https://github.com/Programming2023-24/c-programming-group2-Youssefidris/blob/58cabe75fe3972481dfb92a99391e8dae12c571d/lettershape2.cpp).
+
 
 ## Contact
 📧 Email: 30068768@students.southwales.ac.uk
