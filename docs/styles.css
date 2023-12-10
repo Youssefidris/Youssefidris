@@ -3,7 +3,6 @@ body {
     background-image: url('pexels-neo-2653362.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Keeps the background fixed while scrolling */
     color: white; /* Set the text color to white */
     font-family: Arial, sans-serif; /* Choose an appropriate font family */
     margin: 0; /* Remove default margin to fill the entire viewport */
