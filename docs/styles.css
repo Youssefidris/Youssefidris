@@ -1,57 +1,45 @@
-/* styles.css */
+/* In styles.css or your external CSS file */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
     background-image: url('pexels-neo-2653362.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    color: white; /* Set the text color to white */
 }
 
-
-
-
-
-
-
+/* Style the header text */
 header {
     text-align: center;
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
+    padding: 50px;
 }
 
-header img {
-    border-radius: 50%;
-    max-width: 200px;
+header h1 {
+    font-size: 36px;
 }
 
-h1 {
-    font-size: 24px;
-}
-
+/* Style the sections with a background color for better contrast */
 section {
-    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background */
     padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 10px;
+    margin: 20px;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
+/* Style the section headings */
+section h2 {
+    color: white; /* Set the section heading color to white */
 }
 
-ul li {
-    margin-bottom: 10px;
+/* Style the section content */
+section p, section ul {
+    color: white; /* Set the text color inside sections to white */
 }
 
+/* Style links */
 a {
-    text-decoration: none;
-    color: #0366d6;
+    color: #3498db; /* Set link color to a blue color */
 }
 
+/* Style links on hover */
 a:hover {
-    text-decoration: underline;
+    color: #e74c3c; /* Change link color on hover to a different color */
 }
