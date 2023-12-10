@@ -10,33 +10,36 @@ body {
 header {
     text-align: center;
     padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background for the header */
 }
 
 header h1 {
     font-size: 36px;
 }
 
-/* Style the sections with a background color for better contrast */
+/* Style the sections */
 section {
-    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background */
     padding: 20px;
     border-radius: 10px;
     margin: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background for the sections */
+    color: white; /* Set the text color inside sections to white */
 }
 
 /* Style the section headings */
 section h2 {
-    color: white; /* Set the section heading color to white */
+    color: #3498db; /* Set the section heading color to blue */
 }
 
-/* Style the section content */
+/* Style section content */
 section p, section ul {
     color: white; /* Set the text color inside sections to white */
 }
 
 /* Style links */
 a {
-    color: #3498db; /* Set link color to a blue color */
+    color: #3498db; /* Set link color to blue */
+    text-decoration: none; /* Remove underlines from links */
 }
 
 /* Style links on hover */
