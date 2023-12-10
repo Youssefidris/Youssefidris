@@ -17,7 +17,7 @@ header {
 }
 
 header h1 {
-    font-size: 36px;
+    font-size: 48px; /* Increase the font size for better visibility */
 }
 
 /* Style the sections */
