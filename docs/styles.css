@@ -1,54 +1,49 @@
 /* In styles.css or your external CSS file */
 body {
     background-image: url('pexels-neo-2653362.jpg');
-    background-size: cover; /* Ensure the background image covers the entire viewport */
+    background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Keeps the background fixed while scrolling */
-    color: white; /* Set the text color to white */
-    font-family: Arial, sans-serif; /* Choose an appropriate font family */
-    margin: 0; /* Remove default margin to fill the entire viewport */
-    padding: 0; /* Remove default padding */
+    background-attachment: fixed;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-/* Style the header text */
 header {
     text-align: center;
     padding: 50px;
-    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background for the header */
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 0;
 }
 
 header h1 {
     font-size: 36px;
-    margin: 0; /* Remove margin to prevent spacing */
+    margin: 0;
 }
 
-/* Style the sections */
 section {
     padding: 20px;
     border-radius: 10px;
     margin: 20px;
-    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background for the sections */
-    color: white; /* Set the text color inside sections to white */
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
 }
 
-/* Style the section headings */
 section h2 {
-    color: #3498db; /* Set the section heading color to blue */
+    color: #3498db;
 }
 
-/* Style section content */
 section p, section ul {
-    color: white; /* Set the text color inside sections to white */
-    margin: 0; /* Remove margin to prevent spacing */
+    color: white;
+    margin: 0;
 }
 
-/* Style links */
 a {
-    color: #3498db; /* Set link color to blue */
-    text-decoration: none; /* Remove underlines from links */
+    color: #3498db;
+    text-decoration: none;
 }
 
-/* Style links on hover */
 a:hover {
-    color: #e74c3c; /* Change link color on hover to a different color */
+    color: #e74c3c;
 }
