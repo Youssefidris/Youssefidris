@@ -14,8 +14,8 @@ I speak Arabic, English, and a bit of Turkish. In my free time, I love playing a
   - Mathematical Tools for Computation
   - Professionalism and Employability
   - Problem-solving
-  - Information Management
-  - Assurance and Security.
+  - Information Management ,Assurance and Security.
+  
 
 ## Skills
 - **Languages:** C++
