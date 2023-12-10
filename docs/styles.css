@@ -1,8 +1,9 @@
 /* In styles.css or your external CSS file */
 body {
     background-image: url('pexels-neo-2653362.jpg');
-    background-size: cover;
+    background-size: cover; /* Ensure the background image covers the entire viewport */
     background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
     color: white; /* Set the text color to white */
     font-family: Arial, sans-serif; /* Choose an appropriate font family */
     margin: 0; /* Remove default margin to fill the entire viewport */
@@ -17,7 +18,8 @@ header {
 }
 
 header h1 {
-    font-size: 48px; /* Increase the font size for better visibility */
+    font-size: 36px;
+    margin: 0; /* Remove margin to prevent spacing */
 }
 
 /* Style the sections */
@@ -37,6 +39,7 @@ section h2 {
 /* Style section content */
 section p, section ul {
     color: white; /* Set the text color inside sections to white */
+    margin: 0; /* Remove margin to prevent spacing */
 }
 
 /* Style links */
